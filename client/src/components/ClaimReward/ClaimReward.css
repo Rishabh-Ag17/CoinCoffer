@@ -1,0 +1,12 @@
+.claim-reward Button {
+    width: 180px !important;
+    margin-top: 0px;
+    background-color: #FEAE6F;
+    color: #01204E;
+  }
+  
+  Button:hover {
+    background-color: var(--primary-color);
+    color: white;
+  }
+  
