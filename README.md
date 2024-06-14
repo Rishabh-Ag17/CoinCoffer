@@ -27,4 +27,4 @@ To run CoinCoffer locally on your machine, follow these steps:
 
 ## Usage
 
-Ensure you have MetaMask installed and connected to the appropriate Ethereum network (e.g., Rinkeby, Ropsten). Explore the features of CoinCoffer to securely manage and stake your digital assets.
+Ensure you have MetaMask installed and connected to the appropriate Ethereum network that is, Sepolia. Explore the features of CoinCoffer to securely manage and stake your digital assets.
